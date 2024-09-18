@@ -1,12 +1,38 @@
-/* 1. Please try to stlyle this website so that that Animals, Lion, Tiger and Bear all have a lightyellow background, and Plants, Oak, Pine and Birch all have a lightgreen background*/
+/* 1. Please try to style this website so that that Animals, Lion, Tiger and Bear all have a lightyellow background, and Plants, Oak, Pine and Birch all have a lightgreen background*/
 /*Hint: remember CSS for background colors: background-color: "red"; You need to check the HTML file called "warm-up.html*/
 /*Apply padding: 10px; to each element*/
-
-
-
+div{
+    background-color: lightyellow;
+}
+.animal{
+    background-color: lightgoldenrodyellow;
+    border: 1px solid gold;
+    padding: 10px;
+}
+.plant{
+    background-color: lightgreen;
+    border: 1px solid green;
+    padding: 10px;
+}
+h2{
+    color: blue;
+}
+p {
+    margin-left: 20px;
+}
 
 /* 2. Please style the headings to be blue*/
+.Wild{
+    background-color: lightcoral;
+    padding: 10px;
+    border: 1px solid red;
+}
+.Domestic{
+    background-color: lightcyan;
+    padding: 10px;
+    border: 1px solid blue;
 
+}
 
 
 
